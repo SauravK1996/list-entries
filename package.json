@@ -1,0 +1,26 @@
+{
+  "name": "list-entries",
+  "version": "1.0.0",
+  "description": "returns the entries of archive files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauravK1996/list-entries.git"
+  },
+  "keywords": [
+    "LIST-ENTRIES"
+  ],
+  "author": "Saruav Kumar Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauravK1996/list-entries/issues"
+  },
+  "homepage": "https://github.com/SauravK1996/list-entries#readme",
+  "dependencies": {
+    "node-7z-archive": "^1.0.4"
+  },
+  "type": "module"
+}
